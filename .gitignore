@@ -33,4 +33,20 @@ build/
 .vscode/
 
 ### Mac OS ###
+.DS_Store# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Build files
+target/
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# OS files
 .DS_Store
+Thumbs.db
